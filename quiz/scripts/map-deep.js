@@ -10,7 +10,7 @@ const originalMatrix = [
   });
   
   // Modifying the original matrix (changing the last element of the first row)
-  originalMatrix[0][2] = 99;
+  originalMatrix[0][2] = 3
   
   // Displaying the original and new matrices
   console.log('Original Matrix (modified):', originalMatrix);
